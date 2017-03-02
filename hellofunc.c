@@ -5,6 +5,7 @@ void myPrintHelloMake(void) {
 
   printf("Hello makefiles!\n");
   printf("my first changes\n");
+  printf("");
 
   return;
 }
